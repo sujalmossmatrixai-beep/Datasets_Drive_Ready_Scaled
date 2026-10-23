@@ -1,0 +1,201 @@
+warehouse_id,facility_name,city,capacity_sqft
+100,New York Hub,New York,100
+101,Los Angeles Hub,Los Angeles,101
+102,Chicago Hub,Chicago,102
+103,Houston Hub,Houston,103
+104,Phoenix Hub,Phoenix,104
+105,Philadelphia Hub,Philadelphia,105
+106,San Antonio Hub,San Antonio,106
+107,San Diego Hub,San Diego,107
+108,Dallas Hub,Dallas,108
+109,San Jose Hub,San Jose,109
+110,Austin Hub,Austin,110
+111,Seattle Hub,Seattle,111
+112,Denver Hub,Denver,112
+113,Boston Hub,Boston,113
+114,Miami Hub,Miami,114
+115,New York Hub,New York,115
+116,Los Angeles Hub,Los Angeles,116
+117,Chicago Hub,Chicago,117
+118,Houston Hub,Houston,118
+119,Phoenix Hub,Phoenix,119
+120,Philadelphia Hub,Philadelphia,120
+121,San Antonio Hub,San Antonio,121
+122,San Diego Hub,San Diego,122
+123,Dallas Hub,Dallas,123
+124,San Jose Hub,San Jose,124
+125,New York Hub,New York,125
+126,Los Angeles Hub,Los Angeles,126
+127,Chicago Hub,Chicago,127
+128,Houston Hub,Houston,128
+129,Phoenix Hub,Phoenix,129
+130,Philadelphia Hub,Philadelphia,130
+131,San Antonio Hub,San Antonio,131
+132,San Diego Hub,San Diego,132
+133,Dallas Hub,Dallas,133
+134,San Jose Hub,San Jose,134
+135,Austin Hub,Austin,135
+136,Seattle Hub,Seattle,136
+137,Denver Hub,Denver,137
+138,Boston Hub,Boston,138
+139,Miami Hub,Miami,139
+140,New York Hub,New York,140
+141,Los Angeles Hub,Los Angeles,141
+142,Chicago Hub,Chicago,142
+143,Houston Hub,Houston,143
+144,Phoenix Hub,Phoenix,144
+145,Philadelphia Hub,Philadelphia,145
+146,San Antonio Hub,San Antonio,146
+147,San Diego Hub,San Diego,147
+148,Dallas Hub,Dallas,148
+149,San Jose Hub,San Jose,149
+150,New York Hub,New York,150
+151,Los Angeles Hub,Los Angeles,151
+152,Chicago Hub,Chicago,152
+153,Houston Hub,Houston,153
+154,Phoenix Hub,Phoenix,154
+155,Philadelphia Hub,Philadelphia,155
+156,San Antonio Hub,San Antonio,156
+157,San Diego Hub,San Diego,157
+158,Dallas Hub,Dallas,158
+159,San Jose Hub,San Jose,159
+160,Austin Hub,Austin,160
+161,Seattle Hub,Seattle,161
+162,Denver Hub,Denver,162
+163,Boston Hub,Boston,163
+164,Miami Hub,Miami,164
+165,New York Hub,New York,165
+166,Los Angeles Hub,Los Angeles,166
+167,Chicago Hub,Chicago,167
+168,Houston Hub,Houston,168
+169,Phoenix Hub,Phoenix,169
+170,Philadelphia Hub,Philadelphia,170
+171,San Antonio Hub,San Antonio,171
+172,San Diego Hub,San Diego,172
+173,Dallas Hub,Dallas,173
+174,San Jose Hub,San Jose,174
+175,New York Hub,New York,175
+176,Los Angeles Hub,Los Angeles,176
+177,Chicago Hub,Chicago,177
+178,Houston Hub,Houston,178
+179,Phoenix Hub,Phoenix,179
+180,Philadelphia Hub,Philadelphia,180
+181,San Antonio Hub,San Antonio,181
+182,San Diego Hub,San Diego,182
+183,Dallas Hub,Dallas,183
+184,San Jose Hub,San Jose,184
+185,Austin Hub,Austin,185
+186,Seattle Hub,Seattle,186
+187,Denver Hub,Denver,187
+188,Boston Hub,Boston,188
+189,Miami Hub,Miami,189
+190,New York Hub,New York,190
+191,Los Angeles Hub,Los Angeles,191
+192,Chicago Hub,Chicago,192
+193,Houston Hub,Houston,193
+194,Phoenix Hub,Phoenix,194
+195,Philadelphia Hub,Philadelphia,195
+196,San Antonio Hub,San Antonio,196
+197,San Diego Hub,San Diego,197
+198,Dallas Hub,Dallas,198
+199,San Jose Hub,San Jose,199
+200,New York Hub,New York,200
+201,Los Angeles Hub,Los Angeles,201
+202,Chicago Hub,Chicago,202
+203,Houston Hub,Houston,203
+204,Phoenix Hub,Phoenix,204
+205,Philadelphia Hub,Philadelphia,205
+206,San Antonio Hub,San Antonio,206
+207,San Diego Hub,San Diego,207
+208,Dallas Hub,Dallas,208
+209,San Jose Hub,San Jose,209
+210,Austin Hub,Austin,210
+211,Seattle Hub,Seattle,211
+212,Denver Hub,Denver,212
+213,Boston Hub,Boston,213
+214,Miami Hub,Miami,214
+215,New York Hub,New York,215
+216,Los Angeles Hub,Los Angeles,216
+217,Chicago Hub,Chicago,217
+218,Houston Hub,Houston,218
+219,Phoenix Hub,Phoenix,219
+220,Philadelphia Hub,Philadelphia,220
+221,San Antonio Hub,San Antonio,221
+222,San Diego Hub,San Diego,222
+223,Dallas Hub,Dallas,223
+224,San Jose Hub,San Jose,224
+225,New York Hub,New York,225
+226,Los Angeles Hub,Los Angeles,226
+227,Chicago Hub,Chicago,227
+228,Houston Hub,Houston,228
+229,Phoenix Hub,Phoenix,229
+230,Philadelphia Hub,Philadelphia,230
+231,San Antonio Hub,San Antonio,231
+232,San Diego Hub,San Diego,232
+233,Dallas Hub,Dallas,233
+234,San Jose Hub,San Jose,234
+235,Austin Hub,Austin,235
+236,Seattle Hub,Seattle,236
+237,Denver Hub,Denver,237
+238,Boston Hub,Boston,238
+239,Miami Hub,Miami,239
+240,New York Hub,New York,240
+241,Los Angeles Hub,Los Angeles,241
+242,Chicago Hub,Chicago,242
+243,Houston Hub,Houston,243
+244,Phoenix Hub,Phoenix,244
+245,Philadelphia Hub,Philadelphia,245
+246,San Antonio Hub,San Antonio,246
+247,San Diego Hub,San Diego,247
+248,Dallas Hub,Dallas,248
+249,San Jose Hub,San Jose,249
+250,New York Hub,New York,250
+251,Los Angeles Hub,Los Angeles,251
+252,Chicago Hub,Chicago,252
+253,Houston Hub,Houston,253
+254,Phoenix Hub,Phoenix,254
+255,Philadelphia Hub,Philadelphia,255
+256,San Antonio Hub,San Antonio,256
+257,San Diego Hub,San Diego,257
+258,Dallas Hub,Dallas,258
+259,San Jose Hub,San Jose,259
+260,Austin Hub,Austin,260
+261,Seattle Hub,Seattle,261
+262,Denver Hub,Denver,262
+263,Boston Hub,Boston,263
+264,Miami Hub,Miami,264
+265,New York Hub,New York,265
+266,Los Angeles Hub,Los Angeles,266
+267,Chicago Hub,Chicago,267
+268,Houston Hub,Houston,268
+269,Phoenix Hub,Phoenix,269
+270,Philadelphia Hub,Philadelphia,270
+271,San Antonio Hub,San Antonio,271
+272,San Diego Hub,San Diego,272
+273,Dallas Hub,Dallas,273
+274,San Jose Hub,San Jose,274
+275,New York Hub,New York,275
+276,Los Angeles Hub,Los Angeles,276
+277,Chicago Hub,Chicago,277
+278,Houston Hub,Houston,278
+279,Phoenix Hub,Phoenix,279
+280,Philadelphia Hub,Philadelphia,280
+281,San Antonio Hub,San Antonio,281
+282,San Diego Hub,San Diego,282
+283,Dallas Hub,Dallas,283
+284,San Jose Hub,San Jose,284
+285,Austin Hub,Austin,285
+286,Seattle Hub,Seattle,286
+287,Denver Hub,Denver,287
+288,Boston Hub,Boston,288
+289,Miami Hub,Miami,289
+290,New York Hub,New York,290
+291,Los Angeles Hub,Los Angeles,291
+292,Chicago Hub,Chicago,292
+293,Houston Hub,Houston,293
+294,Phoenix Hub,Phoenix,294
+295,Philadelphia Hub,Philadelphia,295
+296,San Antonio Hub,San Antonio,296
+297,San Diego Hub,San Diego,297
+298,Dallas Hub,Dallas,298
+299,San Jose Hub,San Jose,299

@@ -1,0 +1,17 @@
+================================================================================
+MOSS AI MAPPER - TARGET DATABASE LIVE CONNECTION
+================================================================================
+Dataset:       Dataset_07_Enterprise_HR_CloudSaaS_Judicial_20x30
+Component:     target
+Neon Project:  Dataset_07_Enterprise_HR_CloudSaaS_Judicial_20x30_Target
+Database:      neondb
+Role:          TARGET DATABASE (30 Tables)
+Host Type:     Neon Serverless PostgreSQL (Cloud AWS)
+SSL Mode:      require
+================================================================================
+Pooler Connection URI (High Concurrency / Read Heavy):
+postgresql://neondb_owner:npg_FaUOT13LYCxm@ep-lucky-silence-b4xt9zzf-pooler.c-6.us-east-2.aws.neon.tech/neondb?sslmode=require
+
+Direct Compute Connection URI (Primary Read/Write Endpoint):
+postgresql://neondb_owner:npg_FaUOT13LYCxm@ep-lucky-silence-b4xt9zzf.c-6.us-east-2.aws.neon.tech/neondb?sslmode=require
+================================================================================

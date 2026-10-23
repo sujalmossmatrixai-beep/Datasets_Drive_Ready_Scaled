@@ -1,0 +1,17 @@
+================================================================================
+MOSS AI MAPPER - TARGET DATABASE LIVE CONNECTION
+================================================================================
+Dataset:       Dataset_03_Omnichannel_Retail_Logistics_SupplyChain_20x30
+Component:     target
+Neon Project:  Dataset_03_Omnichannel_Retail_Logistics_SupplyChain_20x30_Target
+Database:      neondb
+Role:          TARGET DATABASE (30 Tables)
+Host Type:     Neon Serverless PostgreSQL (Cloud AWS)
+SSL Mode:      require
+================================================================================
+Pooler Connection URI (High Concurrency / Read Heavy):
+postgresql://neondb_owner:npg_vMlg9DKYnE5e@ep-autumn-block-b89o8ubj-pooler.c-14.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+
+Direct Compute Connection URI (Primary Read/Write Endpoint):
+postgresql://neondb_owner:npg_vMlg9DKYnE5e@ep-autumn-block-b89o8ubj.c-14.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+================================================================================

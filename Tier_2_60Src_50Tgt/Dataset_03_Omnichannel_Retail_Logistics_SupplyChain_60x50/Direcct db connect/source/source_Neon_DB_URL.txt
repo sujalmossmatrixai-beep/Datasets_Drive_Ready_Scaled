@@ -1,0 +1,17 @@
+================================================================================
+MOSS AI MAPPER - SOURCE DATABASE LIVE CONNECTION
+================================================================================
+Dataset:       Dataset_03_Omnichannel_Retail_Logistics_SupplyChain_60x50
+Component:     source
+Neon Project:  Dataset_03_Omnichannel_Retail_Logistics_SupplyChain_60x50_Source
+Database:      neondb
+Role:          SOURCE DATABASE (60 Tables)
+Host Type:     Neon Serverless PostgreSQL (Cloud AWS)
+SSL Mode:      require
+================================================================================
+Pooler Connection URI (High Concurrency / Read Heavy):
+postgresql://neondb_owner:npg_QYq7dNhlL5Dc@ep-twilight-sea-b5lkepfk-pooler.c-7.us-east-2.aws.neon.tech/neondb?sslmode=require
+
+Direct Compute Connection URI (Primary Read/Write Endpoint):
+postgresql://neondb_owner:npg_QYq7dNhlL5Dc@ep-twilight-sea-b5lkepfk.c-7.us-east-2.aws.neon.tech/neondb?sslmode=require
+================================================================================

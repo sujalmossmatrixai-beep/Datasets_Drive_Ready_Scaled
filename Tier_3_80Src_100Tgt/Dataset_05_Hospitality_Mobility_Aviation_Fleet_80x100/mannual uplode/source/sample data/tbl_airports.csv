@@ -1,0 +1,51 @@
+airport_id,iata_code,airport_name,city
+100,IAT-1000,John Smith,New York
+101,IAT-1001,Jane Johnson,Los Angeles
+102,IAT-1002,Michael Williams,Chicago
+103,IAT-1003,Emily Brown,Houston
+104,IAT-1004,David Jones,Phoenix
+105,IAT-1005,Sarah Garcia,Philadelphia
+106,IAT-1006,Robert Miller,San Antonio
+107,IAT-1007,Lisa Davis,San Diego
+108,IAT-1008,James Rodriguez,Dallas
+109,IAT-1009,Jennifer Martinez,San Jose
+110,IAT-1010,William Hernandez,Austin
+111,IAT-1011,Amanda Lopez,Seattle
+112,IAT-1012,Joseph Gonzalez,Denver
+113,IAT-1013,Jessica Wilson,Boston
+114,IAT-1014,Thomas Anderson,Miami
+115,IAT-1015,Ashley Thomas,New York
+116,IAT-1016,Charles Taylor,Los Angeles
+117,IAT-1017,Stephanie Moore,Chicago
+118,IAT-1018,Daniel Jackson,Houston
+119,IAT-1019,Nicole Martin,Phoenix
+120,IAT-1020,John Smith,Philadelphia
+121,IAT-1021,Jane Johnson,San Antonio
+122,IAT-1022,Michael Williams,San Diego
+123,IAT-1023,Emily Brown,Dallas
+124,IAT-1024,David Jones,San Jose
+125,IAT-1025,John Smith,New York
+126,IAT-1026,Jane Johnson,Los Angeles
+127,IAT-1027,Michael Williams,Chicago
+128,IAT-1028,Emily Brown,Houston
+129,IAT-1029,David Jones,Phoenix
+130,IAT-1030,Sarah Garcia,Philadelphia
+131,IAT-1031,Robert Miller,San Antonio
+132,IAT-1032,Lisa Davis,San Diego
+133,IAT-1033,James Rodriguez,Dallas
+134,IAT-1034,Jennifer Martinez,San Jose
+135,IAT-1035,William Hernandez,Austin
+136,IAT-1036,Amanda Lopez,Seattle
+137,IAT-1037,Joseph Gonzalez,Denver
+138,IAT-1038,Jessica Wilson,Boston
+139,IAT-1039,Thomas Anderson,Miami
+140,IAT-1040,Ashley Thomas,New York
+141,IAT-1041,Charles Taylor,Los Angeles
+142,IAT-1042,Stephanie Moore,Chicago
+143,IAT-1043,Daniel Jackson,Houston
+144,IAT-1044,Nicole Martin,Phoenix
+145,IAT-1045,John Smith,Philadelphia
+146,IAT-1046,Jane Johnson,San Antonio
+147,IAT-1047,Michael Williams,San Diego
+148,IAT-1048,Emily Brown,Dallas
+149,IAT-1049,David Jones,San Jose

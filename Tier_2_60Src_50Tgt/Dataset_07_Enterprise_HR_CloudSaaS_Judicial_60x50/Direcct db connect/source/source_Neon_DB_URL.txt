@@ -1,0 +1,17 @@
+================================================================================
+MOSS AI MAPPER - SOURCE DATABASE LIVE CONNECTION
+================================================================================
+Dataset:       Dataset_07_Enterprise_HR_CloudSaaS_Judicial_60x50
+Component:     source
+Neon Project:  Dataset_07_Enterprise_HR_CloudSaaS_Judicial_60x50_Source
+Database:      neondb
+Role:          SOURCE DATABASE (60 Tables)
+Host Type:     Neon Serverless PostgreSQL (Cloud AWS)
+SSL Mode:      require
+================================================================================
+Pooler Connection URI (High Concurrency / Read Heavy):
+postgresql://neondb_owner:npg_pEOHTG1h9QrD@ep-lucky-mouse-arywaohv-pooler.c-4.us-west-2.aws.neon.tech/neondb?sslmode=require
+
+Direct Compute Connection URI (Primary Read/Write Endpoint):
+postgresql://neondb_owner:npg_pEOHTG1h9QrD@ep-lucky-mouse-arywaohv.c-4.us-west-2.aws.neon.tech/neondb?sslmode=require
+================================================================================

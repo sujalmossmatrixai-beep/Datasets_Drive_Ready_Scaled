@@ -1,0 +1,17 @@
+================================================================================
+MOSS AI MAPPER - SOURCE DATABASE LIVE CONNECTION
+================================================================================
+Dataset:       Dataset_01_Fintech_Banking_Wealth_Risk_60x50
+Component:     source
+Neon Project:  Dataset_01_Fintech_Banking_Wealth_Risk_60x50_Source
+Database:      neondb
+Role:          SOURCE DATABASE (60 Tables)
+Host Type:     Neon Serverless PostgreSQL (Cloud AWS)
+SSL Mode:      require
+================================================================================
+Pooler Connection URI (High Concurrency / Read Heavy):
+postgresql://neondb_owner:npg_Qo2iNmlUBrs1@ep-proud-wave-b8qaai9i-pooler.c-14.us-east-1.aws.neon.tech/neondb?sslmode=require
+
+Direct Compute Connection URI (Primary Read/Write Endpoint):
+postgresql://neondb_owner:npg_Qo2iNmlUBrs1@ep-proud-wave-b8qaai9i.c-14.us-east-1.aws.neon.tech/neondb?sslmode=require
+================================================================================

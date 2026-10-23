@@ -1,0 +1,17 @@
+================================================================================
+MOSS AI MAPPER - SOURCE DATABASE LIVE CONNECTION
+================================================================================
+Dataset:       Dataset_08_RealEstate_UrbanProperty_Utility_Dealership_20x30
+Component:     source
+Neon Project:  Dataset_08_RealEstate_UrbanProperty_Utility_Dealership_20x30_Source
+Database:      neondb
+Role:          SOURCE DATABASE (20 Tables)
+Host Type:     Neon Serverless PostgreSQL (Cloud AWS)
+SSL Mode:      require
+================================================================================
+Pooler Connection URI (High Concurrency / Read Heavy):
+postgresql://neondb_owner:npg_vgE7QTs2Ohon@ep-quiet-flower-b5phpu01-pooler.c-7.us-east-2.aws.neon.tech/neondb?sslmode=require
+
+Direct Compute Connection URI (Primary Read/Write Endpoint):
+postgresql://neondb_owner:npg_vgE7QTs2Ohon@ep-quiet-flower-b5phpu01.c-7.us-east-2.aws.neon.tech/neondb?sslmode=require
+================================================================================

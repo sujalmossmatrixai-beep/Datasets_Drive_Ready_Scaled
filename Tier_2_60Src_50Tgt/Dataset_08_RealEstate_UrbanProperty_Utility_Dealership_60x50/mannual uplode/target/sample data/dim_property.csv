@@ -1,0 +1,101 @@
+property_key,source_property_id,owner_key,property_type,city_name
+100,100,100,TYPE_1,New York Hub
+101,101,101,TYPE_2,Los Angeles Hub
+102,102,102,TYPE_3,Chicago Hub
+103,103,103,TYPE_1,Houston Hub
+104,104,104,TYPE_2,Phoenix Hub
+105,105,100,TYPE_3,Philadelphia Hub
+106,106,101,TYPE_1,San Antonio Hub
+107,107,102,TYPE_2,San Diego Hub
+108,108,103,TYPE_3,Dallas Hub
+109,109,104,TYPE_1,San Jose Hub
+110,110,100,TYPE_2,Austin Hub
+111,111,101,TYPE_3,Seattle Hub
+112,112,102,TYPE_1,Denver Hub
+113,113,103,TYPE_2,Boston Hub
+114,114,104,TYPE_3,Miami Hub
+115,115,100,TYPE_1,New York Hub
+116,116,101,TYPE_2,Los Angeles Hub
+117,117,102,TYPE_3,Chicago Hub
+118,118,103,TYPE_1,Houston Hub
+119,119,104,TYPE_2,Phoenix Hub
+120,120,100,TYPE_3,Philadelphia Hub
+121,121,101,TYPE_1,San Antonio Hub
+122,122,102,TYPE_2,San Diego Hub
+123,123,103,TYPE_3,Dallas Hub
+124,124,104,TYPE_1,San Jose Hub
+125,125,125,TYPE_26,New York Hub
+126,126,126,TYPE_27,Los Angeles Hub
+127,127,127,TYPE_28,Chicago Hub
+128,128,128,TYPE_29,Houston Hub
+129,129,129,TYPE_30,Phoenix Hub
+130,130,130,TYPE_31,Philadelphia Hub
+131,131,131,TYPE_32,San Antonio Hub
+132,132,132,TYPE_33,San Diego Hub
+133,133,133,TYPE_34,Dallas Hub
+134,134,134,TYPE_35,San Jose Hub
+135,135,135,TYPE_36,Austin Hub
+136,136,136,TYPE_37,Seattle Hub
+137,137,137,TYPE_38,Denver Hub
+138,138,138,TYPE_39,Boston Hub
+139,139,139,TYPE_40,Miami Hub
+140,140,140,TYPE_41,New York Hub
+141,141,141,TYPE_42,Los Angeles Hub
+142,142,142,TYPE_43,Chicago Hub
+143,143,143,TYPE_44,Houston Hub
+144,144,144,TYPE_45,Phoenix Hub
+145,145,145,TYPE_46,Philadelphia Hub
+146,146,146,TYPE_47,San Antonio Hub
+147,147,147,TYPE_48,San Diego Hub
+148,148,148,TYPE_49,Dallas Hub
+149,149,149,TYPE_50,San Jose Hub
+150,150,150,TYPE_51,New York Hub
+151,151,151,TYPE_52,Los Angeles Hub
+152,152,152,TYPE_53,Chicago Hub
+153,153,153,TYPE_54,Houston Hub
+154,154,154,TYPE_55,Phoenix Hub
+155,155,155,TYPE_56,Philadelphia Hub
+156,156,156,TYPE_57,San Antonio Hub
+157,157,157,TYPE_58,San Diego Hub
+158,158,158,TYPE_59,Dallas Hub
+159,159,159,TYPE_60,San Jose Hub
+160,160,160,TYPE_61,Austin Hub
+161,161,161,TYPE_62,Seattle Hub
+162,162,162,TYPE_63,Denver Hub
+163,163,163,TYPE_64,Boston Hub
+164,164,164,TYPE_65,Miami Hub
+165,165,165,TYPE_66,New York Hub
+166,166,166,TYPE_67,Los Angeles Hub
+167,167,167,TYPE_68,Chicago Hub
+168,168,168,TYPE_69,Houston Hub
+169,169,169,TYPE_70,Phoenix Hub
+170,170,170,TYPE_71,Philadelphia Hub
+171,171,171,TYPE_72,San Antonio Hub
+172,172,172,TYPE_73,San Diego Hub
+173,173,173,TYPE_74,Dallas Hub
+174,174,174,TYPE_75,San Jose Hub
+175,175,175,TYPE_76,New York Hub
+176,176,176,TYPE_77,Los Angeles Hub
+177,177,177,TYPE_78,Chicago Hub
+178,178,178,TYPE_79,Houston Hub
+179,179,179,TYPE_80,Phoenix Hub
+180,180,180,TYPE_81,Philadelphia Hub
+181,181,181,TYPE_82,San Antonio Hub
+182,182,182,TYPE_83,San Diego Hub
+183,183,183,TYPE_84,Dallas Hub
+184,184,184,TYPE_85,San Jose Hub
+185,185,185,TYPE_86,Austin Hub
+186,186,186,TYPE_87,Seattle Hub
+187,187,187,TYPE_88,Denver Hub
+188,188,188,TYPE_89,Boston Hub
+189,189,189,TYPE_90,Miami Hub
+190,190,190,TYPE_91,New York Hub
+191,191,191,TYPE_92,Los Angeles Hub
+192,192,192,TYPE_93,Chicago Hub
+193,193,193,TYPE_94,Houston Hub
+194,194,194,TYPE_95,Phoenix Hub
+195,195,195,TYPE_96,Philadelphia Hub
+196,196,196,TYPE_97,San Antonio Hub
+197,197,197,TYPE_98,San Diego Hub
+198,198,198,TYPE_99,Dallas Hub
+199,199,199,TYPE_100,San Jose Hub

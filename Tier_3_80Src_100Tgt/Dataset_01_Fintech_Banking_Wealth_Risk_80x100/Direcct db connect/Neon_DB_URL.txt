@@ -1,0 +1,43 @@
+================================================================================
+MOSS AI MAPPER - LIVE DATABASE CONNECTION CONFIGURATION
+================================================================================
+Dataset:       Dataset_01_Fintech_Banking_Wealth_Risk_80x100
+Tier:          Tier 3: 80 Source Tables, 100 Target Tables
+Anchor Domain: Finance_Banking_Dataset
+Theme:         Fintech, Corporate Banking, Wealth & Risk Management
+Total Tables:  Source: 80 Tables | Target: 100 Tables
+Database Type: PostgreSQL (Neon Serverless Cloud AWS)
+SSL Mode:      require
+
+================================================================================
+SECTION 1: SOURCE DATABASE CONNECTION (Primary Anchor: Finance_Banking_Dataset)
+Subfolder:     source
+================================================================================
+Pooler Connection URI (Recommended for High Concurrency):
+postgresql://neondb_owner:npg_7bJuRgoniEl4@ep-sweet-glitter-arpujtn9-pooler.c-4.us-west-2.aws.neon.tech/neondb?sslmode=require
+
+Direct Read-Write Compute Connection URI:
+postgresql://neondb_owner:npg_7bJuRgoniEl4@ep-sweet-glitter-arpujtn9.c-4.us-west-2.aws.neon.tech/neondb?sslmode=require
+
+================================================================================
+SECTION 2: TARGET DATABASE CONNECTION (Primary Anchor: Finance_Banking_Dataset)
+Subfolder:     target
+================================================================================
+Pooler Connection URI (Recommended for High Concurrency):
+postgresql://neondb_owner:npg_smbXwO19iQLq@ep-withered-mouse-b4bt9l4m-pooler.c-6.us-east-2.aws.neon.tech/neondb?sslmode=require
+
+Direct Read-Write Compute Connection URI:
+postgresql://neondb_owner:npg_smbXwO19iQLq@ep-withered-mouse-b4bt9l4m.c-6.us-east-2.aws.neon.tech/neondb?sslmode=require
+
+================================================================================
+SCHEMA & INGESTION ARCHITECTURE NOTES:
+1. Ingestion Mode 1 (File-Based Manual Upload):
+   - Source Schema & Sample Data: 'mannual uplode/source'
+   - Target Schema & Sample Data: 'mannual uplode/target'
+2. Ingestion Mode 2 (Live Database Connect):
+   - Direct DB Source Config: 'Direcct db connect/source'
+   - Direct DB Target Config: 'Direcct db connect/target'
+3. Ground-Truth Expected Mapping:
+   Refer to 'expected_mapping.xlsx' for verified column-level
+   source-to-target mappings across all 571 columns.
+================================================================================

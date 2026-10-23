@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,cuisine_type,city
+100,John Smith,TYPE_1,New York
+101,Jane Johnson,TYPE_2,Los Angeles
+102,Michael Williams,TYPE_3,Chicago
+103,Emily Brown,TYPE_1,Houston
+104,David Jones,TYPE_2,Phoenix
+105,Sarah Garcia,TYPE_3,Philadelphia
+106,Robert Miller,TYPE_1,San Antonio
+107,Lisa Davis,TYPE_2,San Diego
+108,James Rodriguez,TYPE_3,Dallas
+109,Jennifer Martinez,TYPE_1,San Jose
+110,William Hernandez,TYPE_2,Austin
+111,Amanda Lopez,TYPE_3,Seattle
+112,Joseph Gonzalez,TYPE_1,Denver
+113,Jessica Wilson,TYPE_2,Boston
+114,Thomas Anderson,TYPE_3,Miami
+115,Ashley Thomas,TYPE_1,New York
+116,Charles Taylor,TYPE_2,Los Angeles
+117,Stephanie Moore,TYPE_3,Chicago
+118,Daniel Jackson,TYPE_1,Houston
+119,Nicole Martin,TYPE_2,Phoenix
+120,John Smith,TYPE_3,Philadelphia
+121,Jane Johnson,TYPE_1,San Antonio
+122,Michael Williams,TYPE_2,San Diego
+123,Emily Brown,TYPE_3,Dallas
+124,David Jones,TYPE_1,San Jose
+125,John Smith,TYPE_26,New York
+126,Jane Johnson,TYPE_27,Los Angeles
+127,Michael Williams,TYPE_28,Chicago
+128,Emily Brown,TYPE_29,Houston
+129,David Jones,TYPE_30,Phoenix
+130,Sarah Garcia,TYPE_31,Philadelphia
+131,Robert Miller,TYPE_32,San Antonio
+132,Lisa Davis,TYPE_33,San Diego
+133,James Rodriguez,TYPE_34,Dallas
+134,Jennifer Martinez,TYPE_35,San Jose
+135,William Hernandez,TYPE_36,Austin
+136,Amanda Lopez,TYPE_37,Seattle
+137,Joseph Gonzalez,TYPE_38,Denver
+138,Jessica Wilson,TYPE_39,Boston
+139,Thomas Anderson,TYPE_40,Miami
+140,Ashley Thomas,TYPE_41,New York
+141,Charles Taylor,TYPE_42,Los Angeles
+142,Stephanie Moore,TYPE_43,Chicago
+143,Daniel Jackson,TYPE_44,Houston
+144,Nicole Martin,TYPE_45,Phoenix
+145,John Smith,TYPE_46,Philadelphia
+146,Jane Johnson,TYPE_47,San Antonio
+147,Michael Williams,TYPE_48,San Diego
+148,Emily Brown,TYPE_49,Dallas
+149,David Jones,TYPE_50,San Jose
+150,John Smith,TYPE_51,New York
+151,Jane Johnson,TYPE_52,Los Angeles
+152,Michael Williams,TYPE_53,Chicago
+153,Emily Brown,TYPE_54,Houston
+154,David Jones,TYPE_55,Phoenix
+155,Sarah Garcia,TYPE_56,Philadelphia
+156,Robert Miller,TYPE_57,San Antonio
+157,Lisa Davis,TYPE_58,San Diego
+158,James Rodriguez,TYPE_59,Dallas
+159,Jennifer Martinez,TYPE_60,San Jose
+160,William Hernandez,TYPE_61,Austin
+161,Amanda Lopez,TYPE_62,Seattle
+162,Joseph Gonzalez,TYPE_63,Denver
+163,Jessica Wilson,TYPE_64,Boston
+164,Thomas Anderson,TYPE_65,Miami
+165,Ashley Thomas,TYPE_66,New York
+166,Charles Taylor,TYPE_67,Los Angeles
+167,Stephanie Moore,TYPE_68,Chicago
+168,Daniel Jackson,TYPE_69,Houston
+169,Nicole Martin,TYPE_70,Phoenix
+170,John Smith,TYPE_71,Philadelphia
+171,Jane Johnson,TYPE_72,San Antonio
+172,Michael Williams,TYPE_73,San Diego
+173,Emily Brown,TYPE_74,Dallas
+174,David Jones,TYPE_75,San Jose
+175,John Smith,TYPE_76,New York
+176,Jane Johnson,TYPE_77,Los Angeles
+177,Michael Williams,TYPE_78,Chicago
+178,Emily Brown,TYPE_79,Houston
+179,David Jones,TYPE_80,Phoenix
+180,Sarah Garcia,TYPE_81,Philadelphia
+181,Robert Miller,TYPE_82,San Antonio
+182,Lisa Davis,TYPE_83,San Diego
+183,James Rodriguez,TYPE_84,Dallas
+184,Jennifer Martinez,TYPE_85,San Jose
+185,William Hernandez,TYPE_86,Austin
+186,Amanda Lopez,TYPE_87,Seattle
+187,Joseph Gonzalez,TYPE_88,Denver
+188,Jessica Wilson,TYPE_89,Boston
+189,Thomas Anderson,TYPE_90,Miami
+190,Ashley Thomas,TYPE_91,New York
+191,Charles Taylor,TYPE_92,Los Angeles
+192,Stephanie Moore,TYPE_93,Chicago
+193,Daniel Jackson,TYPE_94,Houston
+194,Nicole Martin,TYPE_95,Phoenix
+195,John Smith,TYPE_96,Philadelphia
+196,Jane Johnson,TYPE_97,San Antonio
+197,Michael Williams,TYPE_98,San Diego
+198,Emily Brown,TYPE_99,Dallas
+199,David Jones,TYPE_100,San Jose

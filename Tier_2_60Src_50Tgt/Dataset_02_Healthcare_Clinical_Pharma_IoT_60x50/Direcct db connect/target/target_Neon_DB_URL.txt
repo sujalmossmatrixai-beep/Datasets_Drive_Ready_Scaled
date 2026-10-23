@@ -1,0 +1,17 @@
+================================================================================
+MOSS AI MAPPER - TARGET DATABASE LIVE CONNECTION
+================================================================================
+Dataset:       Dataset_02_Healthcare_Clinical_Pharma_IoT_60x50
+Component:     target
+Neon Project:  Dataset_02_Healthcare_Clinical_Pharma_IoT_60x50_Target
+Database:      neondb
+Role:          TARGET DATABASE (50 Tables)
+Host Type:     Neon Serverless PostgreSQL (Cloud AWS)
+SSL Mode:      require
+================================================================================
+Pooler Connection URI (High Concurrency / Read Heavy):
+postgresql://neondb_owner:npg_M9fGkVIR2yrq@ep-patient-frog-b81wyz35-pooler.c-14.us-east-1.aws.neon.tech/neondb?sslmode=require
+
+Direct Compute Connection URI (Primary Read/Write Endpoint):
+postgresql://neondb_owner:npg_M9fGkVIR2yrq@ep-patient-frog-b81wyz35.c-14.us-east-1.aws.neon.tech/neondb?sslmode=require
+================================================================================

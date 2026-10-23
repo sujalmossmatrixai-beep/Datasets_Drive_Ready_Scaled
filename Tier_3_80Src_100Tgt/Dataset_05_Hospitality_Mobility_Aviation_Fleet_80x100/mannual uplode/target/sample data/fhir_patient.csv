@@ -1,0 +1,201 @@
+fhir_patient_key,source_patient_id,mrn_identifier,full_name,gender_code,birth_date,city_name,state_code,is_active
+100,100,MRN-1000,John Smith,GEN-1000,1980-01-15,New York Hub,NY,True
+101,101,MRN-1001,Jane Johnson,GEN-1001,1981-02-15,Los Angeles Hub,CA,False
+102,102,MRN-1002,Michael Williams,GEN-1002,1982-03-15,Chicago Hub,IL,True
+103,103,MRN-1003,Emily Brown,GEN-1003,1983-04-15,Houston Hub,TX,False
+104,104,MRN-1004,David Jones,GEN-1004,1984-05-15,Phoenix Hub,AZ,True
+105,105,MRN-1005,Sarah Garcia,GEN-1005,1985-06-15,Philadelphia Hub,PA,False
+106,106,MRN-1006,Robert Miller,GEN-1006,1986-07-15,San Antonio Hub,TX,True
+107,107,MRN-1007,Lisa Davis,GEN-1007,1987-08-15,San Diego Hub,CA,False
+108,108,MRN-1008,James Rodriguez,GEN-1008,1988-09-15,Dallas Hub,TX,True
+109,109,MRN-1009,Jennifer Martinez,GEN-1009,1989-01-15,San Jose Hub,CA,False
+110,110,MRN-1010,William Hernandez,GEN-1010,1980-02-15,Austin Hub,TX,True
+111,111,MRN-1011,Amanda Lopez,GEN-1011,1981-03-15,Seattle Hub,WA,False
+112,112,MRN-1012,Joseph Gonzalez,GEN-1012,1982-04-15,Denver Hub,CO,True
+113,113,MRN-1013,Jessica Wilson,GEN-1013,1983-05-15,Boston Hub,MA,False
+114,114,MRN-1014,Thomas Anderson,GEN-1014,1984-06-15,Miami Hub,FL,True
+115,115,MRN-1015,Ashley Thomas,GEN-1015,1985-07-15,New York Hub,NY,False
+116,116,MRN-1016,Charles Taylor,GEN-1016,1986-08-15,Los Angeles Hub,CA,True
+117,117,MRN-1017,Stephanie Moore,GEN-1017,1987-09-15,Chicago Hub,IL,False
+118,118,MRN-1018,Daniel Jackson,GEN-1018,1988-01-15,Houston Hub,TX,True
+119,119,MRN-1019,Nicole Martin,GEN-1019,1989-02-15,Phoenix Hub,AZ,False
+120,120,MRN-1020,John Smith,GEN-1020,1980-03-15,Philadelphia Hub,PA,True
+121,121,MRN-1021,Jane Johnson,GEN-1021,1981-04-15,San Antonio Hub,TX,False
+122,122,MRN-1022,Michael Williams,GEN-1022,1982-05-15,San Diego Hub,CA,True
+123,123,MRN-1023,Emily Brown,GEN-1023,1983-06-15,Dallas Hub,TX,False
+124,124,MRN-1024,David Jones,GEN-1024,1984-07-15,San Jose Hub,CA,True
+125,125,MRN-1025,John Smith,GEN-1025,1980-02-09,New York Hub,NY,True
+126,126,MRN-1026,Jane Johnson,GEN-1026,1981-03-12,Los Angeles Hub,CA,False
+127,127,MRN-1027,Michael Williams,GEN-1027,1982-04-09,Chicago Hub,IL,True
+128,128,MRN-1028,Emily Brown,GEN-1028,1983-05-10,Houston Hub,TX,False
+129,129,MRN-1029,David Jones,GEN-1029,1984-06-09,Phoenix Hub,AZ,True
+130,130,MRN-1030,Sarah Garcia,GEN-1030,1985-07-10,Philadelphia Hub,PA,False
+131,131,MRN-1031,Robert Miller,GEN-1031,1986-08-09,San Antonio Hub,TX,True
+132,132,MRN-1032,Lisa Davis,GEN-1032,1987-09-09,San Diego Hub,CA,False
+133,133,MRN-1033,James Rodriguez,GEN-1033,1988-10-10,Dallas Hub,TX,True
+134,134,MRN-1034,Jennifer Martinez,GEN-1034,1989-02-09,San Jose Hub,CA,False
+135,135,MRN-1035,William Hernandez,GEN-1035,1980-03-11,Austin Hub,TX,True
+136,136,MRN-1036,Amanda Lopez,GEN-1036,1981-04-09,Seattle Hub,WA,False
+137,137,MRN-1037,Joseph Gonzalez,GEN-1037,1982-05-10,Denver Hub,CO,True
+138,138,MRN-1038,Jessica Wilson,GEN-1038,1983-06-09,Boston Hub,MA,False
+139,139,MRN-1039,Thomas Anderson,GEN-1039,1984-07-10,Miami Hub,FL,True
+140,140,MRN-1040,Ashley Thomas,GEN-1040,1985-08-09,New York Hub,NY,False
+141,141,MRN-1041,Charles Taylor,GEN-1041,1986-09-09,Los Angeles Hub,CA,True
+142,142,MRN-1042,Stephanie Moore,GEN-1042,1987-10-10,Chicago Hub,IL,False
+143,143,MRN-1043,Daniel Jackson,GEN-1043,1988-02-09,Houston Hub,TX,True
+144,144,MRN-1044,Nicole Martin,GEN-1044,1989-03-12,Phoenix Hub,AZ,False
+145,145,MRN-1045,John Smith,GEN-1045,1980-04-09,Philadelphia Hub,PA,True
+146,146,MRN-1046,Jane Johnson,GEN-1046,1981-05-10,San Antonio Hub,TX,False
+147,147,MRN-1047,Michael Williams,GEN-1047,1982-06-09,San Diego Hub,CA,True
+148,148,MRN-1048,Emily Brown,GEN-1048,1983-07-10,Dallas Hub,TX,False
+149,149,MRN-1049,David Jones,GEN-1049,1984-08-09,San Jose Hub,CA,True
+150,150,MRN-1050,John Smith,GEN-1050,1980-03-05,New York Hub,NY,True
+151,151,MRN-1051,Jane Johnson,GEN-1051,1981-04-06,Los Angeles Hub,CA,False
+152,152,MRN-1052,Michael Williams,GEN-1052,1982-05-04,Chicago Hub,IL,True
+153,153,MRN-1053,Emily Brown,GEN-1053,1983-06-04,Houston Hub,TX,False
+154,154,MRN-1054,David Jones,GEN-1054,1984-07-04,Phoenix Hub,AZ,True
+155,155,MRN-1055,Sarah Garcia,GEN-1055,1985-08-04,Philadelphia Hub,PA,False
+156,156,MRN-1056,Robert Miller,GEN-1056,1986-09-03,San Antonio Hub,TX,True
+157,157,MRN-1057,Lisa Davis,GEN-1057,1987-10-04,San Diego Hub,CA,False
+158,158,MRN-1058,James Rodriguez,GEN-1058,1988-11-04,Dallas Hub,TX,True
+159,159,MRN-1059,Jennifer Martinez,GEN-1059,1989-03-06,San Jose Hub,CA,False
+160,160,MRN-1060,William Hernandez,GEN-1060,1980-04-05,Austin Hub,TX,True
+161,161,MRN-1061,Amanda Lopez,GEN-1061,1981-05-04,Seattle Hub,WA,False
+162,162,MRN-1062,Joseph Gonzalez,GEN-1062,1982-06-04,Denver Hub,CO,True
+163,163,MRN-1063,Jessica Wilson,GEN-1063,1983-07-04,Boston Hub,MA,False
+164,164,MRN-1064,Thomas Anderson,GEN-1064,1984-08-04,Miami Hub,FL,True
+165,165,MRN-1065,Ashley Thomas,GEN-1065,1985-09-03,New York Hub,NY,False
+166,166,MRN-1066,Charles Taylor,GEN-1066,1986-10-04,Los Angeles Hub,CA,True
+167,167,MRN-1067,Stephanie Moore,GEN-1067,1987-11-04,Chicago Hub,IL,False
+168,168,MRN-1068,Daniel Jackson,GEN-1068,1988-03-05,Houston Hub,TX,True
+169,169,MRN-1069,Nicole Martin,GEN-1069,1989-04-06,Phoenix Hub,AZ,False
+170,170,MRN-1070,John Smith,GEN-1070,1980-05-04,Philadelphia Hub,PA,True
+171,171,MRN-1071,Jane Johnson,GEN-1071,1981-06-04,San Antonio Hub,TX,False
+172,172,MRN-1072,Michael Williams,GEN-1072,1982-07-04,San Diego Hub,CA,True
+173,173,MRN-1073,Emily Brown,GEN-1073,1983-08-04,Dallas Hub,TX,False
+174,174,MRN-1074,David Jones,GEN-1074,1984-09-03,San Jose Hub,CA,True
+175,175,MRN-1075,John Smith,GEN-1075,1980-03-30,New York Hub,NY,True
+176,176,MRN-1076,Jane Johnson,GEN-1076,1981-05-01,Los Angeles Hub,CA,False
+177,177,MRN-1077,Michael Williams,GEN-1077,1982-05-29,Chicago Hub,IL,True
+178,178,MRN-1078,Emily Brown,GEN-1078,1983-06-29,Houston Hub,TX,False
+179,179,MRN-1079,David Jones,GEN-1079,1984-07-29,Phoenix Hub,AZ,True
+180,180,MRN-1080,Sarah Garcia,GEN-1080,1985-08-29,Philadelphia Hub,PA,False
+181,181,MRN-1081,Robert Miller,GEN-1081,1986-09-28,San Antonio Hub,TX,True
+182,182,MRN-1082,Lisa Davis,GEN-1082,1987-10-29,San Diego Hub,CA,False
+183,183,MRN-1083,James Rodriguez,GEN-1083,1988-11-29,Dallas Hub,TX,True
+184,184,MRN-1084,Jennifer Martinez,GEN-1084,1989-03-31,San Jose Hub,CA,False
+185,185,MRN-1085,William Hernandez,GEN-1085,1980-04-30,Austin Hub,TX,True
+186,186,MRN-1086,Amanda Lopez,GEN-1086,1981-05-29,Seattle Hub,WA,False
+187,187,MRN-1087,Joseph Gonzalez,GEN-1087,1982-06-29,Denver Hub,CO,True
+188,188,MRN-1088,Jessica Wilson,GEN-1088,1983-07-29,Boston Hub,MA,False
+189,189,MRN-1089,Thomas Anderson,GEN-1089,1984-08-29,Miami Hub,FL,True
+190,190,MRN-1090,Ashley Thomas,GEN-1090,1985-09-28,New York Hub,NY,False
+191,191,MRN-1091,Charles Taylor,GEN-1091,1986-10-29,Los Angeles Hub,CA,True
+192,192,MRN-1092,Stephanie Moore,GEN-1092,1987-11-29,Chicago Hub,IL,False
+193,193,MRN-1093,Daniel Jackson,GEN-1093,1988-03-30,Houston Hub,TX,True
+194,194,MRN-1094,Nicole Martin,GEN-1094,1989-05-01,Phoenix Hub,AZ,False
+195,195,MRN-1095,John Smith,GEN-1095,1980-05-29,Philadelphia Hub,PA,True
+196,196,MRN-1096,Jane Johnson,GEN-1096,1981-06-29,San Antonio Hub,TX,False
+197,197,MRN-1097,Michael Williams,GEN-1097,1982-07-29,San Diego Hub,CA,True
+198,198,MRN-1098,Emily Brown,GEN-1098,1983-08-29,Dallas Hub,TX,False
+199,199,MRN-1099,David Jones,GEN-1099,1984-09-28,San Jose Hub,CA,True
+200,200,MRN-1100,John Smith,GEN-1100,1980-04-24,New York Hub,NY,True
+201,201,MRN-1101,Jane Johnson,GEN-1101,1981-05-26,Los Angeles Hub,CA,False
+202,202,MRN-1102,Michael Williams,GEN-1102,1982-06-23,Chicago Hub,IL,True
+203,203,MRN-1103,Emily Brown,GEN-1103,1983-07-24,Houston Hub,TX,False
+204,204,MRN-1104,David Jones,GEN-1104,1984-08-23,Phoenix Hub,AZ,True
+205,205,MRN-1105,Sarah Garcia,GEN-1105,1985-09-23,Philadelphia Hub,PA,False
+206,206,MRN-1106,Robert Miller,GEN-1106,1986-10-23,San Antonio Hub,TX,True
+207,207,MRN-1107,Lisa Davis,GEN-1107,1987-11-23,San Diego Hub,CA,False
+208,208,MRN-1108,James Rodriguez,GEN-1108,1988-12-24,Dallas Hub,TX,True
+209,209,MRN-1109,Jennifer Martinez,GEN-1109,1989-04-25,San Jose Hub,CA,False
+210,210,MRN-1110,William Hernandez,GEN-1110,1980-05-25,Austin Hub,TX,True
+211,211,MRN-1111,Amanda Lopez,GEN-1111,1981-06-23,Seattle Hub,WA,False
+212,212,MRN-1112,Joseph Gonzalez,GEN-1112,1982-07-24,Denver Hub,CO,True
+213,213,MRN-1113,Jessica Wilson,GEN-1113,1983-08-23,Boston Hub,MA,False
+214,214,MRN-1114,Thomas Anderson,GEN-1114,1984-09-23,Miami Hub,FL,True
+215,215,MRN-1115,Ashley Thomas,GEN-1115,1985-10-23,New York Hub,NY,False
+216,216,MRN-1116,Charles Taylor,GEN-1116,1986-11-23,Los Angeles Hub,CA,True
+217,217,MRN-1117,Stephanie Moore,GEN-1117,1987-12-24,Chicago Hub,IL,False
+218,218,MRN-1118,Daniel Jackson,GEN-1118,1988-04-24,Houston Hub,TX,True
+219,219,MRN-1119,Nicole Martin,GEN-1119,1989-05-26,Phoenix Hub,AZ,False
+220,220,MRN-1120,John Smith,GEN-1120,1980-06-23,Philadelphia Hub,PA,True
+221,221,MRN-1121,Jane Johnson,GEN-1121,1981-07-24,San Antonio Hub,TX,False
+222,222,MRN-1122,Michael Williams,GEN-1122,1982-08-23,San Diego Hub,CA,True
+223,223,MRN-1123,Emily Brown,GEN-1123,1983-09-23,Dallas Hub,TX,False
+224,224,MRN-1124,David Jones,GEN-1124,1984-10-23,San Jose Hub,CA,True
+225,225,MRN-1125,John Smith,GEN-1125,1980-05-19,New York Hub,NY,True
+226,226,MRN-1126,Jane Johnson,GEN-1126,1981-06-20,Los Angeles Hub,CA,False
+227,227,MRN-1127,Michael Williams,GEN-1127,1982-07-18,Chicago Hub,IL,True
+228,228,MRN-1128,Emily Brown,GEN-1128,1983-08-18,Houston Hub,TX,False
+229,229,MRN-1129,David Jones,GEN-1129,1984-09-17,Phoenix Hub,AZ,True
+230,230,MRN-1130,Sarah Garcia,GEN-1130,1985-10-18,Philadelphia Hub,PA,False
+231,231,MRN-1131,Robert Miller,GEN-1131,1986-11-17,San Antonio Hub,TX,True
+232,232,MRN-1132,Lisa Davis,GEN-1132,1987-12-18,San Diego Hub,CA,False
+233,233,MRN-1133,James Rodriguez,GEN-1133,1989-01-18,Dallas Hub,TX,True
+234,234,MRN-1134,Jennifer Martinez,GEN-1134,1989-05-20,San Jose Hub,CA,False
+235,235,MRN-1135,William Hernandez,GEN-1135,1980-06-19,Austin Hub,TX,True
+236,236,MRN-1136,Amanda Lopez,GEN-1136,1981-07-18,Seattle Hub,WA,False
+237,237,MRN-1137,Joseph Gonzalez,GEN-1137,1982-08-18,Denver Hub,CO,True
+238,238,MRN-1138,Jessica Wilson,GEN-1138,1983-09-17,Boston Hub,MA,False
+239,239,MRN-1139,Thomas Anderson,GEN-1139,1984-10-18,Miami Hub,FL,True
+240,240,MRN-1140,Ashley Thomas,GEN-1140,1985-11-17,New York Hub,NY,False
+241,241,MRN-1141,Charles Taylor,GEN-1141,1986-12-18,Los Angeles Hub,CA,True
+242,242,MRN-1142,Stephanie Moore,GEN-1142,1988-01-18,Chicago Hub,IL,False
+243,243,MRN-1143,Daniel Jackson,GEN-1143,1988-05-19,Houston Hub,TX,True
+244,244,MRN-1144,Nicole Martin,GEN-1144,1989-06-20,Phoenix Hub,AZ,False
+245,245,MRN-1145,John Smith,GEN-1145,1980-07-18,Philadelphia Hub,PA,True
+246,246,MRN-1146,Jane Johnson,GEN-1146,1981-08-18,San Antonio Hub,TX,False
+247,247,MRN-1147,Michael Williams,GEN-1147,1982-09-17,San Diego Hub,CA,True
+248,248,MRN-1148,Emily Brown,GEN-1148,1983-10-18,Dallas Hub,TX,False
+249,249,MRN-1149,David Jones,GEN-1149,1984-11-17,San Jose Hub,CA,True
+250,250,MRN-1150,John Smith,GEN-1150,1980-06-13,New York Hub,NY,True
+251,251,MRN-1151,Jane Johnson,GEN-1151,1981-07-15,Los Angeles Hub,CA,False
+252,252,MRN-1152,Michael Williams,GEN-1152,1982-08-12,Chicago Hub,IL,True
+253,253,MRN-1153,Emily Brown,GEN-1153,1983-09-12,Houston Hub,TX,False
+254,254,MRN-1154,David Jones,GEN-1154,1984-10-12,Phoenix Hub,AZ,True
+255,255,MRN-1155,Sarah Garcia,GEN-1155,1985-11-12,Philadelphia Hub,PA,False
+256,256,MRN-1156,Robert Miller,GEN-1156,1986-12-12,San Antonio Hub,TX,True
+257,257,MRN-1157,Lisa Davis,GEN-1157,1988-01-12,San Diego Hub,CA,False
+258,258,MRN-1158,James Rodriguez,GEN-1158,1989-02-12,Dallas Hub,TX,True
+259,259,MRN-1159,Jennifer Martinez,GEN-1159,1989-06-14,San Jose Hub,CA,False
+260,260,MRN-1160,William Hernandez,GEN-1160,1980-07-14,Austin Hub,TX,True
+261,261,MRN-1161,Amanda Lopez,GEN-1161,1981-08-12,Seattle Hub,WA,False
+262,262,MRN-1162,Joseph Gonzalez,GEN-1162,1982-09-12,Denver Hub,CO,True
+263,263,MRN-1163,Jessica Wilson,GEN-1163,1983-10-12,Boston Hub,MA,False
+264,264,MRN-1164,Thomas Anderson,GEN-1164,1984-11-12,Miami Hub,FL,True
+265,265,MRN-1165,Ashley Thomas,GEN-1165,1985-12-12,New York Hub,NY,False
+266,266,MRN-1166,Charles Taylor,GEN-1166,1987-01-12,Los Angeles Hub,CA,True
+267,267,MRN-1167,Stephanie Moore,GEN-1167,1988-02-12,Chicago Hub,IL,False
+268,268,MRN-1168,Daniel Jackson,GEN-1168,1988-06-13,Houston Hub,TX,True
+269,269,MRN-1169,Nicole Martin,GEN-1169,1989-07-15,Phoenix Hub,AZ,False
+270,270,MRN-1170,John Smith,GEN-1170,1980-08-12,Philadelphia Hub,PA,True
+271,271,MRN-1171,Jane Johnson,GEN-1171,1981-09-12,San Antonio Hub,TX,False
+272,272,MRN-1172,Michael Williams,GEN-1172,1982-10-12,San Diego Hub,CA,True
+273,273,MRN-1173,Emily Brown,GEN-1173,1983-11-12,Dallas Hub,TX,False
+274,274,MRN-1174,David Jones,GEN-1174,1984-12-12,San Jose Hub,CA,True
+275,275,MRN-1175,John Smith,GEN-1175,1980-07-08,New York Hub,NY,True
+276,276,MRN-1176,Jane Johnson,GEN-1176,1981-08-09,Los Angeles Hub,CA,False
+277,277,MRN-1177,Michael Williams,GEN-1177,1982-09-06,Chicago Hub,IL,True
+278,278,MRN-1178,Emily Brown,GEN-1178,1983-10-07,Houston Hub,TX,False
+279,279,MRN-1179,David Jones,GEN-1179,1984-11-06,Phoenix Hub,AZ,True
+280,280,MRN-1180,Sarah Garcia,GEN-1180,1985-12-07,Philadelphia Hub,PA,False
+281,281,MRN-1181,Robert Miller,GEN-1181,1987-01-06,San Antonio Hub,TX,True
+282,282,MRN-1182,Lisa Davis,GEN-1182,1988-02-06,San Diego Hub,CA,False
+283,283,MRN-1183,James Rodriguez,GEN-1183,1989-03-09,Dallas Hub,TX,True
+284,284,MRN-1184,Jennifer Martinez,GEN-1184,1989-07-09,San Jose Hub,CA,False
+285,285,MRN-1185,William Hernandez,GEN-1185,1980-08-08,Austin Hub,TX,True
+286,286,MRN-1186,Amanda Lopez,GEN-1186,1981-09-06,Seattle Hub,WA,False
+287,287,MRN-1187,Joseph Gonzalez,GEN-1187,1982-10-07,Denver Hub,CO,True
+288,288,MRN-1188,Jessica Wilson,GEN-1188,1983-11-06,Boston Hub,MA,False
+289,289,MRN-1189,Thomas Anderson,GEN-1189,1984-12-07,Miami Hub,FL,True
+290,290,MRN-1190,Ashley Thomas,GEN-1190,1986-01-06,New York Hub,NY,False
+291,291,MRN-1191,Charles Taylor,GEN-1191,1987-02-06,Los Angeles Hub,CA,True
+292,292,MRN-1192,Stephanie Moore,GEN-1192,1988-03-08,Chicago Hub,IL,False
+293,293,MRN-1193,Daniel Jackson,GEN-1193,1988-07-08,Houston Hub,TX,True
+294,294,MRN-1194,Nicole Martin,GEN-1194,1989-08-09,Phoenix Hub,AZ,False
+295,295,MRN-1195,John Smith,GEN-1195,1980-09-06,Philadelphia Hub,PA,True
+296,296,MRN-1196,Jane Johnson,GEN-1196,1981-10-07,San Antonio Hub,TX,False
+297,297,MRN-1197,Michael Williams,GEN-1197,1982-11-06,San Diego Hub,CA,True
+298,298,MRN-1198,Emily Brown,GEN-1198,1983-12-07,Dallas Hub,TX,False
+299,299,MRN-1199,David Jones,GEN-1199,1985-01-06,San Jose Hub,CA,True

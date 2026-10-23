@@ -1,0 +1,17 @@
+================================================================================
+MOSS AI MAPPER - SOURCE DATABASE LIVE CONNECTION
+================================================================================
+Dataset:       Dataset_02_Healthcare_Clinical_Pharma_IoT_20x30
+Component:     source
+Neon Project:  Dataset_02_Healthcare_Clinical_Pharma_IoT_20x30_Source
+Database:      neondb
+Role:          SOURCE DATABASE (20 Tables)
+Host Type:     Neon Serverless PostgreSQL (Cloud AWS)
+SSL Mode:      require
+================================================================================
+Pooler Connection URI (High Concurrency / Read Heavy):
+postgresql://neondb_owner:npg_UgOn8h5ZuPYB@ep-summer-breeze-b427crku-pooler.c-6.us-east-2.aws.neon.tech/neondb?sslmode=require
+
+Direct Compute Connection URI (Primary Read/Write Endpoint):
+postgresql://neondb_owner:npg_UgOn8h5ZuPYB@ep-summer-breeze-b427crku.c-6.us-east-2.aws.neon.tech/neondb?sslmode=require
+================================================================================

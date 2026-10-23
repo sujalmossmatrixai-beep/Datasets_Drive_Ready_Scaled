@@ -1,0 +1,17 @@
+================================================================================
+MOSS AI MAPPER - SOURCE DATABASE LIVE CONNECTION
+================================================================================
+Dataset:       Dataset_06_DigitalMedia_Gaming_Entertainment_Social_20x30
+Component:     source
+Neon Project:  Dataset_06_DigitalMedia_Gaming_Entertainment_Social_20x30_Source
+Database:      neondb
+Role:          SOURCE DATABASE (20 Tables)
+Host Type:     Neon Serverless PostgreSQL (Cloud AWS)
+SSL Mode:      require
+================================================================================
+Pooler Connection URI (High Concurrency / Read Heavy):
+postgresql://neondb_owner:npg_p3nYjqSkBoD6@ep-blue-grass-b7jsbgdf-pooler.c-13.us-east-1.aws.neon.tech/neondb?sslmode=require
+
+Direct Compute Connection URI (Primary Read/Write Endpoint):
+postgresql://neondb_owner:npg_p3nYjqSkBoD6@ep-blue-grass-b7jsbgdf.c-13.us-east-1.aws.neon.tech/neondb?sslmode=require
+================================================================================

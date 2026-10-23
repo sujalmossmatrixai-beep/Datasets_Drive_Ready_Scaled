@@ -1,0 +1,201 @@
+dim_wh_key,source_warehouse_id,warehouse_code,warehouse_name,city_name
+100,100,WAR-1000,John Smith,New York Hub
+101,101,WAR-1001,Jane Johnson,Los Angeles Hub
+102,102,WAR-1002,Michael Williams,Chicago Hub
+103,103,WAR-1003,Emily Brown,Houston Hub
+104,104,WAR-1004,David Jones,Phoenix Hub
+105,105,WAR-1005,Sarah Garcia,Philadelphia Hub
+106,106,WAR-1006,Robert Miller,San Antonio Hub
+107,107,WAR-1007,Lisa Davis,San Diego Hub
+108,108,WAR-1008,James Rodriguez,Dallas Hub
+109,109,WAR-1009,Jennifer Martinez,San Jose Hub
+110,110,WAR-1010,William Hernandez,Austin Hub
+111,111,WAR-1011,Amanda Lopez,Seattle Hub
+112,112,WAR-1012,Joseph Gonzalez,Denver Hub
+113,113,WAR-1013,Jessica Wilson,Boston Hub
+114,114,WAR-1014,Thomas Anderson,Miami Hub
+115,115,WAR-1015,Ashley Thomas,New York Hub
+116,116,WAR-1016,Charles Taylor,Los Angeles Hub
+117,117,WAR-1017,Stephanie Moore,Chicago Hub
+118,118,WAR-1018,Daniel Jackson,Houston Hub
+119,119,WAR-1019,Nicole Martin,Phoenix Hub
+120,120,WAR-1020,John Smith,Philadelphia Hub
+121,121,WAR-1021,Jane Johnson,San Antonio Hub
+122,122,WAR-1022,Michael Williams,San Diego Hub
+123,123,WAR-1023,Emily Brown,Dallas Hub
+124,124,WAR-1024,David Jones,San Jose Hub
+125,125,WAR-1025,John Smith,New York Hub
+126,126,WAR-1026,Jane Johnson,Los Angeles Hub
+127,127,WAR-1027,Michael Williams,Chicago Hub
+128,128,WAR-1028,Emily Brown,Houston Hub
+129,129,WAR-1029,David Jones,Phoenix Hub
+130,130,WAR-1030,Sarah Garcia,Philadelphia Hub
+131,131,WAR-1031,Robert Miller,San Antonio Hub
+132,132,WAR-1032,Lisa Davis,San Diego Hub
+133,133,WAR-1033,James Rodriguez,Dallas Hub
+134,134,WAR-1034,Jennifer Martinez,San Jose Hub
+135,135,WAR-1035,William Hernandez,Austin Hub
+136,136,WAR-1036,Amanda Lopez,Seattle Hub
+137,137,WAR-1037,Joseph Gonzalez,Denver Hub
+138,138,WAR-1038,Jessica Wilson,Boston Hub
+139,139,WAR-1039,Thomas Anderson,Miami Hub
+140,140,WAR-1040,Ashley Thomas,New York Hub
+141,141,WAR-1041,Charles Taylor,Los Angeles Hub
+142,142,WAR-1042,Stephanie Moore,Chicago Hub
+143,143,WAR-1043,Daniel Jackson,Houston Hub
+144,144,WAR-1044,Nicole Martin,Phoenix Hub
+145,145,WAR-1045,John Smith,Philadelphia Hub
+146,146,WAR-1046,Jane Johnson,San Antonio Hub
+147,147,WAR-1047,Michael Williams,San Diego Hub
+148,148,WAR-1048,Emily Brown,Dallas Hub
+149,149,WAR-1049,David Jones,San Jose Hub
+150,150,WAR-1050,John Smith,New York Hub
+151,151,WAR-1051,Jane Johnson,Los Angeles Hub
+152,152,WAR-1052,Michael Williams,Chicago Hub
+153,153,WAR-1053,Emily Brown,Houston Hub
+154,154,WAR-1054,David Jones,Phoenix Hub
+155,155,WAR-1055,Sarah Garcia,Philadelphia Hub
+156,156,WAR-1056,Robert Miller,San Antonio Hub
+157,157,WAR-1057,Lisa Davis,San Diego Hub
+158,158,WAR-1058,James Rodriguez,Dallas Hub
+159,159,WAR-1059,Jennifer Martinez,San Jose Hub
+160,160,WAR-1060,William Hernandez,Austin Hub
+161,161,WAR-1061,Amanda Lopez,Seattle Hub
+162,162,WAR-1062,Joseph Gonzalez,Denver Hub
+163,163,WAR-1063,Jessica Wilson,Boston Hub
+164,164,WAR-1064,Thomas Anderson,Miami Hub
+165,165,WAR-1065,Ashley Thomas,New York Hub
+166,166,WAR-1066,Charles Taylor,Los Angeles Hub
+167,167,WAR-1067,Stephanie Moore,Chicago Hub
+168,168,WAR-1068,Daniel Jackson,Houston Hub
+169,169,WAR-1069,Nicole Martin,Phoenix Hub
+170,170,WAR-1070,John Smith,Philadelphia Hub
+171,171,WAR-1071,Jane Johnson,San Antonio Hub
+172,172,WAR-1072,Michael Williams,San Diego Hub
+173,173,WAR-1073,Emily Brown,Dallas Hub
+174,174,WAR-1074,David Jones,San Jose Hub
+175,175,WAR-1075,John Smith,New York Hub
+176,176,WAR-1076,Jane Johnson,Los Angeles Hub
+177,177,WAR-1077,Michael Williams,Chicago Hub
+178,178,WAR-1078,Emily Brown,Houston Hub
+179,179,WAR-1079,David Jones,Phoenix Hub
+180,180,WAR-1080,Sarah Garcia,Philadelphia Hub
+181,181,WAR-1081,Robert Miller,San Antonio Hub
+182,182,WAR-1082,Lisa Davis,San Diego Hub
+183,183,WAR-1083,James Rodriguez,Dallas Hub
+184,184,WAR-1084,Jennifer Martinez,San Jose Hub
+185,185,WAR-1085,William Hernandez,Austin Hub
+186,186,WAR-1086,Amanda Lopez,Seattle Hub
+187,187,WAR-1087,Joseph Gonzalez,Denver Hub
+188,188,WAR-1088,Jessica Wilson,Boston Hub
+189,189,WAR-1089,Thomas Anderson,Miami Hub
+190,190,WAR-1090,Ashley Thomas,New York Hub
+191,191,WAR-1091,Charles Taylor,Los Angeles Hub
+192,192,WAR-1092,Stephanie Moore,Chicago Hub
+193,193,WAR-1093,Daniel Jackson,Houston Hub
+194,194,WAR-1094,Nicole Martin,Phoenix Hub
+195,195,WAR-1095,John Smith,Philadelphia Hub
+196,196,WAR-1096,Jane Johnson,San Antonio Hub
+197,197,WAR-1097,Michael Williams,San Diego Hub
+198,198,WAR-1098,Emily Brown,Dallas Hub
+199,199,WAR-1099,David Jones,San Jose Hub
+200,200,WAR-1100,John Smith,New York Hub
+201,201,WAR-1101,Jane Johnson,Los Angeles Hub
+202,202,WAR-1102,Michael Williams,Chicago Hub
+203,203,WAR-1103,Emily Brown,Houston Hub
+204,204,WAR-1104,David Jones,Phoenix Hub
+205,205,WAR-1105,Sarah Garcia,Philadelphia Hub
+206,206,WAR-1106,Robert Miller,San Antonio Hub
+207,207,WAR-1107,Lisa Davis,San Diego Hub
+208,208,WAR-1108,James Rodriguez,Dallas Hub
+209,209,WAR-1109,Jennifer Martinez,San Jose Hub
+210,210,WAR-1110,William Hernandez,Austin Hub
+211,211,WAR-1111,Amanda Lopez,Seattle Hub
+212,212,WAR-1112,Joseph Gonzalez,Denver Hub
+213,213,WAR-1113,Jessica Wilson,Boston Hub
+214,214,WAR-1114,Thomas Anderson,Miami Hub
+215,215,WAR-1115,Ashley Thomas,New York Hub
+216,216,WAR-1116,Charles Taylor,Los Angeles Hub
+217,217,WAR-1117,Stephanie Moore,Chicago Hub
+218,218,WAR-1118,Daniel Jackson,Houston Hub
+219,219,WAR-1119,Nicole Martin,Phoenix Hub
+220,220,WAR-1120,John Smith,Philadelphia Hub
+221,221,WAR-1121,Jane Johnson,San Antonio Hub
+222,222,WAR-1122,Michael Williams,San Diego Hub
+223,223,WAR-1123,Emily Brown,Dallas Hub
+224,224,WAR-1124,David Jones,San Jose Hub
+225,225,WAR-1125,John Smith,New York Hub
+226,226,WAR-1126,Jane Johnson,Los Angeles Hub
+227,227,WAR-1127,Michael Williams,Chicago Hub
+228,228,WAR-1128,Emily Brown,Houston Hub
+229,229,WAR-1129,David Jones,Phoenix Hub
+230,230,WAR-1130,Sarah Garcia,Philadelphia Hub
+231,231,WAR-1131,Robert Miller,San Antonio Hub
+232,232,WAR-1132,Lisa Davis,San Diego Hub
+233,233,WAR-1133,James Rodriguez,Dallas Hub
+234,234,WAR-1134,Jennifer Martinez,San Jose Hub
+235,235,WAR-1135,William Hernandez,Austin Hub
+236,236,WAR-1136,Amanda Lopez,Seattle Hub
+237,237,WAR-1137,Joseph Gonzalez,Denver Hub
+238,238,WAR-1138,Jessica Wilson,Boston Hub
+239,239,WAR-1139,Thomas Anderson,Miami Hub
+240,240,WAR-1140,Ashley Thomas,New York Hub
+241,241,WAR-1141,Charles Taylor,Los Angeles Hub
+242,242,WAR-1142,Stephanie Moore,Chicago Hub
+243,243,WAR-1143,Daniel Jackson,Houston Hub
+244,244,WAR-1144,Nicole Martin,Phoenix Hub
+245,245,WAR-1145,John Smith,Philadelphia Hub
+246,246,WAR-1146,Jane Johnson,San Antonio Hub
+247,247,WAR-1147,Michael Williams,San Diego Hub
+248,248,WAR-1148,Emily Brown,Dallas Hub
+249,249,WAR-1149,David Jones,San Jose Hub
+250,250,WAR-1150,John Smith,New York Hub
+251,251,WAR-1151,Jane Johnson,Los Angeles Hub
+252,252,WAR-1152,Michael Williams,Chicago Hub
+253,253,WAR-1153,Emily Brown,Houston Hub
+254,254,WAR-1154,David Jones,Phoenix Hub
+255,255,WAR-1155,Sarah Garcia,Philadelphia Hub
+256,256,WAR-1156,Robert Miller,San Antonio Hub
+257,257,WAR-1157,Lisa Davis,San Diego Hub
+258,258,WAR-1158,James Rodriguez,Dallas Hub
+259,259,WAR-1159,Jennifer Martinez,San Jose Hub
+260,260,WAR-1160,William Hernandez,Austin Hub
+261,261,WAR-1161,Amanda Lopez,Seattle Hub
+262,262,WAR-1162,Joseph Gonzalez,Denver Hub
+263,263,WAR-1163,Jessica Wilson,Boston Hub
+264,264,WAR-1164,Thomas Anderson,Miami Hub
+265,265,WAR-1165,Ashley Thomas,New York Hub
+266,266,WAR-1166,Charles Taylor,Los Angeles Hub
+267,267,WAR-1167,Stephanie Moore,Chicago Hub
+268,268,WAR-1168,Daniel Jackson,Houston Hub
+269,269,WAR-1169,Nicole Martin,Phoenix Hub
+270,270,WAR-1170,John Smith,Philadelphia Hub
+271,271,WAR-1171,Jane Johnson,San Antonio Hub
+272,272,WAR-1172,Michael Williams,San Diego Hub
+273,273,WAR-1173,Emily Brown,Dallas Hub
+274,274,WAR-1174,David Jones,San Jose Hub
+275,275,WAR-1175,John Smith,New York Hub
+276,276,WAR-1176,Jane Johnson,Los Angeles Hub
+277,277,WAR-1177,Michael Williams,Chicago Hub
+278,278,WAR-1178,Emily Brown,Houston Hub
+279,279,WAR-1179,David Jones,Phoenix Hub
+280,280,WAR-1180,Sarah Garcia,Philadelphia Hub
+281,281,WAR-1181,Robert Miller,San Antonio Hub
+282,282,WAR-1182,Lisa Davis,San Diego Hub
+283,283,WAR-1183,James Rodriguez,Dallas Hub
+284,284,WAR-1184,Jennifer Martinez,San Jose Hub
+285,285,WAR-1185,William Hernandez,Austin Hub
+286,286,WAR-1186,Amanda Lopez,Seattle Hub
+287,287,WAR-1187,Joseph Gonzalez,Denver Hub
+288,288,WAR-1188,Jessica Wilson,Boston Hub
+289,289,WAR-1189,Thomas Anderson,Miami Hub
+290,290,WAR-1190,Ashley Thomas,New York Hub
+291,291,WAR-1191,Charles Taylor,Los Angeles Hub
+292,292,WAR-1192,Stephanie Moore,Chicago Hub
+293,293,WAR-1193,Daniel Jackson,Houston Hub
+294,294,WAR-1194,Nicole Martin,Phoenix Hub
+295,295,WAR-1195,John Smith,Philadelphia Hub
+296,296,WAR-1196,Jane Johnson,San Antonio Hub
+297,297,WAR-1197,Michael Williams,San Diego Hub
+298,298,WAR-1198,Emily Brown,Dallas Hub
+299,299,WAR-1199,David Jones,San Jose Hub

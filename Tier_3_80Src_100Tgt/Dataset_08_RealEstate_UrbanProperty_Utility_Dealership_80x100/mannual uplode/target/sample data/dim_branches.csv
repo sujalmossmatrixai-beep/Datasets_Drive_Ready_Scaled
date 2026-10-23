@@ -1,0 +1,201 @@
+branch_key,branch_code,branch_name,full_address,city_name,state_province,postal_code,manager_full_name,is_operational
+100,BRA-1000,John Smith,Item_1,New York Hub,NY,POS-1000,John Smith,True
+101,BRA-1001,Jane Johnson,Item_2,Los Angeles Hub,CA,POS-1001,Jane Johnson,False
+102,BRA-1002,Michael Williams,Item_3,Chicago Hub,IL,POS-1002,Michael Williams,True
+103,BRA-1003,Emily Brown,Item_4,Houston Hub,TX,POS-1003,Emily Brown,False
+104,BRA-1004,David Jones,Item_5,Phoenix Hub,AZ,POS-1004,David Jones,True
+105,BRA-1005,Sarah Garcia,Item_6,Philadelphia Hub,PA,POS-1005,Sarah Garcia,False
+106,BRA-1006,Robert Miller,Item_7,San Antonio Hub,TX,POS-1006,Robert Miller,True
+107,BRA-1007,Lisa Davis,Item_8,San Diego Hub,CA,POS-1007,Lisa Davis,False
+108,BRA-1008,James Rodriguez,Item_9,Dallas Hub,TX,POS-1008,James Rodriguez,True
+109,BRA-1009,Jennifer Martinez,Item_10,San Jose Hub,CA,POS-1009,Jennifer Martinez,False
+110,BRA-1010,William Hernandez,Item_11,Austin Hub,TX,POS-1010,William Hernandez,True
+111,BRA-1011,Amanda Lopez,Item_12,Seattle Hub,WA,POS-1011,Amanda Lopez,False
+112,BRA-1012,Joseph Gonzalez,Item_13,Denver Hub,CO,POS-1012,Joseph Gonzalez,True
+113,BRA-1013,Jessica Wilson,Item_14,Boston Hub,MA,POS-1013,Jessica Wilson,False
+114,BRA-1014,Thomas Anderson,Item_15,Miami Hub,FL,POS-1014,Thomas Anderson,True
+115,BRA-1015,Ashley Thomas,Item_16,New York Hub,NY,POS-1015,Ashley Thomas,False
+116,BRA-1016,Charles Taylor,Item_17,Los Angeles Hub,CA,POS-1016,Charles Taylor,True
+117,BRA-1017,Stephanie Moore,Item_18,Chicago Hub,IL,POS-1017,Stephanie Moore,False
+118,BRA-1018,Daniel Jackson,Item_19,Houston Hub,TX,POS-1018,Daniel Jackson,True
+119,BRA-1019,Nicole Martin,Item_20,Phoenix Hub,AZ,POS-1019,Nicole Martin,False
+120,BRA-1020,John Smith,Item_21,Philadelphia Hub,PA,POS-1020,John Smith,True
+121,BRA-1021,Jane Johnson,Item_22,San Antonio Hub,TX,POS-1021,Jane Johnson,False
+122,BRA-1022,Michael Williams,Item_23,San Diego Hub,CA,POS-1022,Michael Williams,True
+123,BRA-1023,Emily Brown,Item_24,Dallas Hub,TX,POS-1023,Emily Brown,False
+124,BRA-1024,David Jones,Item_25,San Jose Hub,CA,POS-1024,David Jones,True
+125,BRA-1025,John Smith,Item_26,New York Hub,NY,POS-1025,John Smith,True
+126,BRA-1026,Jane Johnson,Item_27,Los Angeles Hub,CA,POS-1026,Jane Johnson,False
+127,BRA-1027,Michael Williams,Item_28,Chicago Hub,IL,POS-1027,Michael Williams,True
+128,BRA-1028,Emily Brown,Item_29,Houston Hub,TX,POS-1028,Emily Brown,False
+129,BRA-1029,David Jones,Item_30,Phoenix Hub,AZ,POS-1029,David Jones,True
+130,BRA-1030,Sarah Garcia,Item_31,Philadelphia Hub,PA,POS-1030,Sarah Garcia,False
+131,BRA-1031,Robert Miller,Item_32,San Antonio Hub,TX,POS-1031,Robert Miller,True
+132,BRA-1032,Lisa Davis,Item_33,San Diego Hub,CA,POS-1032,Lisa Davis,False
+133,BRA-1033,James Rodriguez,Item_34,Dallas Hub,TX,POS-1033,James Rodriguez,True
+134,BRA-1034,Jennifer Martinez,Item_35,San Jose Hub,CA,POS-1034,Jennifer Martinez,False
+135,BRA-1035,William Hernandez,Item_36,Austin Hub,TX,POS-1035,William Hernandez,True
+136,BRA-1036,Amanda Lopez,Item_37,Seattle Hub,WA,POS-1036,Amanda Lopez,False
+137,BRA-1037,Joseph Gonzalez,Item_38,Denver Hub,CO,POS-1037,Joseph Gonzalez,True
+138,BRA-1038,Jessica Wilson,Item_39,Boston Hub,MA,POS-1038,Jessica Wilson,False
+139,BRA-1039,Thomas Anderson,Item_40,Miami Hub,FL,POS-1039,Thomas Anderson,True
+140,BRA-1040,Ashley Thomas,Item_41,New York Hub,NY,POS-1040,Ashley Thomas,False
+141,BRA-1041,Charles Taylor,Item_42,Los Angeles Hub,CA,POS-1041,Charles Taylor,True
+142,BRA-1042,Stephanie Moore,Item_43,Chicago Hub,IL,POS-1042,Stephanie Moore,False
+143,BRA-1043,Daniel Jackson,Item_44,Houston Hub,TX,POS-1043,Daniel Jackson,True
+144,BRA-1044,Nicole Martin,Item_45,Phoenix Hub,AZ,POS-1044,Nicole Martin,False
+145,BRA-1045,John Smith,Item_46,Philadelphia Hub,PA,POS-1045,John Smith,True
+146,BRA-1046,Jane Johnson,Item_47,San Antonio Hub,TX,POS-1046,Jane Johnson,False
+147,BRA-1047,Michael Williams,Item_48,San Diego Hub,CA,POS-1047,Michael Williams,True
+148,BRA-1048,Emily Brown,Item_49,Dallas Hub,TX,POS-1048,Emily Brown,False
+149,BRA-1049,David Jones,Item_50,San Jose Hub,CA,POS-1049,David Jones,True
+150,BRA-1050,John Smith,Item_51,New York Hub,NY,POS-1050,John Smith,True
+151,BRA-1051,Jane Johnson,Item_52,Los Angeles Hub,CA,POS-1051,Jane Johnson,False
+152,BRA-1052,Michael Williams,Item_53,Chicago Hub,IL,POS-1052,Michael Williams,True
+153,BRA-1053,Emily Brown,Item_54,Houston Hub,TX,POS-1053,Emily Brown,False
+154,BRA-1054,David Jones,Item_55,Phoenix Hub,AZ,POS-1054,David Jones,True
+155,BRA-1055,Sarah Garcia,Item_56,Philadelphia Hub,PA,POS-1055,Sarah Garcia,False
+156,BRA-1056,Robert Miller,Item_57,San Antonio Hub,TX,POS-1056,Robert Miller,True
+157,BRA-1057,Lisa Davis,Item_58,San Diego Hub,CA,POS-1057,Lisa Davis,False
+158,BRA-1058,James Rodriguez,Item_59,Dallas Hub,TX,POS-1058,James Rodriguez,True
+159,BRA-1059,Jennifer Martinez,Item_60,San Jose Hub,CA,POS-1059,Jennifer Martinez,False
+160,BRA-1060,William Hernandez,Item_61,Austin Hub,TX,POS-1060,William Hernandez,True
+161,BRA-1061,Amanda Lopez,Item_62,Seattle Hub,WA,POS-1061,Amanda Lopez,False
+162,BRA-1062,Joseph Gonzalez,Item_63,Denver Hub,CO,POS-1062,Joseph Gonzalez,True
+163,BRA-1063,Jessica Wilson,Item_64,Boston Hub,MA,POS-1063,Jessica Wilson,False
+164,BRA-1064,Thomas Anderson,Item_65,Miami Hub,FL,POS-1064,Thomas Anderson,True
+165,BRA-1065,Ashley Thomas,Item_66,New York Hub,NY,POS-1065,Ashley Thomas,False
+166,BRA-1066,Charles Taylor,Item_67,Los Angeles Hub,CA,POS-1066,Charles Taylor,True
+167,BRA-1067,Stephanie Moore,Item_68,Chicago Hub,IL,POS-1067,Stephanie Moore,False
+168,BRA-1068,Daniel Jackson,Item_69,Houston Hub,TX,POS-1068,Daniel Jackson,True
+169,BRA-1069,Nicole Martin,Item_70,Phoenix Hub,AZ,POS-1069,Nicole Martin,False
+170,BRA-1070,John Smith,Item_71,Philadelphia Hub,PA,POS-1070,John Smith,True
+171,BRA-1071,Jane Johnson,Item_72,San Antonio Hub,TX,POS-1071,Jane Johnson,False
+172,BRA-1072,Michael Williams,Item_73,San Diego Hub,CA,POS-1072,Michael Williams,True
+173,BRA-1073,Emily Brown,Item_74,Dallas Hub,TX,POS-1073,Emily Brown,False
+174,BRA-1074,David Jones,Item_75,San Jose Hub,CA,POS-1074,David Jones,True
+175,BRA-1075,John Smith,Item_76,New York Hub,NY,POS-1075,John Smith,True
+176,BRA-1076,Jane Johnson,Item_77,Los Angeles Hub,CA,POS-1076,Jane Johnson,False
+177,BRA-1077,Michael Williams,Item_78,Chicago Hub,IL,POS-1077,Michael Williams,True
+178,BRA-1078,Emily Brown,Item_79,Houston Hub,TX,POS-1078,Emily Brown,False
+179,BRA-1079,David Jones,Item_80,Phoenix Hub,AZ,POS-1079,David Jones,True
+180,BRA-1080,Sarah Garcia,Item_81,Philadelphia Hub,PA,POS-1080,Sarah Garcia,False
+181,BRA-1081,Robert Miller,Item_82,San Antonio Hub,TX,POS-1081,Robert Miller,True
+182,BRA-1082,Lisa Davis,Item_83,San Diego Hub,CA,POS-1082,Lisa Davis,False
+183,BRA-1083,James Rodriguez,Item_84,Dallas Hub,TX,POS-1083,James Rodriguez,True
+184,BRA-1084,Jennifer Martinez,Item_85,San Jose Hub,CA,POS-1084,Jennifer Martinez,False
+185,BRA-1085,William Hernandez,Item_86,Austin Hub,TX,POS-1085,William Hernandez,True
+186,BRA-1086,Amanda Lopez,Item_87,Seattle Hub,WA,POS-1086,Amanda Lopez,False
+187,BRA-1087,Joseph Gonzalez,Item_88,Denver Hub,CO,POS-1087,Joseph Gonzalez,True
+188,BRA-1088,Jessica Wilson,Item_89,Boston Hub,MA,POS-1088,Jessica Wilson,False
+189,BRA-1089,Thomas Anderson,Item_90,Miami Hub,FL,POS-1089,Thomas Anderson,True
+190,BRA-1090,Ashley Thomas,Item_91,New York Hub,NY,POS-1090,Ashley Thomas,False
+191,BRA-1091,Charles Taylor,Item_92,Los Angeles Hub,CA,POS-1091,Charles Taylor,True
+192,BRA-1092,Stephanie Moore,Item_93,Chicago Hub,IL,POS-1092,Stephanie Moore,False
+193,BRA-1093,Daniel Jackson,Item_94,Houston Hub,TX,POS-1093,Daniel Jackson,True
+194,BRA-1094,Nicole Martin,Item_95,Phoenix Hub,AZ,POS-1094,Nicole Martin,False
+195,BRA-1095,John Smith,Item_96,Philadelphia Hub,PA,POS-1095,John Smith,True
+196,BRA-1096,Jane Johnson,Item_97,San Antonio Hub,TX,POS-1096,Jane Johnson,False
+197,BRA-1097,Michael Williams,Item_98,San Diego Hub,CA,POS-1097,Michael Williams,True
+198,BRA-1098,Emily Brown,Item_99,Dallas Hub,TX,POS-1098,Emily Brown,False
+199,BRA-1099,David Jones,Item_100,San Jose Hub,CA,POS-1099,David Jones,True
+200,BRA-1100,John Smith,Item_101,New York Hub,NY,POS-1100,John Smith,True
+201,BRA-1101,Jane Johnson,Item_102,Los Angeles Hub,CA,POS-1101,Jane Johnson,False
+202,BRA-1102,Michael Williams,Item_103,Chicago Hub,IL,POS-1102,Michael Williams,True
+203,BRA-1103,Emily Brown,Item_104,Houston Hub,TX,POS-1103,Emily Brown,False
+204,BRA-1104,David Jones,Item_105,Phoenix Hub,AZ,POS-1104,David Jones,True
+205,BRA-1105,Sarah Garcia,Item_106,Philadelphia Hub,PA,POS-1105,Sarah Garcia,False
+206,BRA-1106,Robert Miller,Item_107,San Antonio Hub,TX,POS-1106,Robert Miller,True
+207,BRA-1107,Lisa Davis,Item_108,San Diego Hub,CA,POS-1107,Lisa Davis,False
+208,BRA-1108,James Rodriguez,Item_109,Dallas Hub,TX,POS-1108,James Rodriguez,True
+209,BRA-1109,Jennifer Martinez,Item_110,San Jose Hub,CA,POS-1109,Jennifer Martinez,False
+210,BRA-1110,William Hernandez,Item_111,Austin Hub,TX,POS-1110,William Hernandez,True
+211,BRA-1111,Amanda Lopez,Item_112,Seattle Hub,WA,POS-1111,Amanda Lopez,False
+212,BRA-1112,Joseph Gonzalez,Item_113,Denver Hub,CO,POS-1112,Joseph Gonzalez,True
+213,BRA-1113,Jessica Wilson,Item_114,Boston Hub,MA,POS-1113,Jessica Wilson,False
+214,BRA-1114,Thomas Anderson,Item_115,Miami Hub,FL,POS-1114,Thomas Anderson,True
+215,BRA-1115,Ashley Thomas,Item_116,New York Hub,NY,POS-1115,Ashley Thomas,False
+216,BRA-1116,Charles Taylor,Item_117,Los Angeles Hub,CA,POS-1116,Charles Taylor,True
+217,BRA-1117,Stephanie Moore,Item_118,Chicago Hub,IL,POS-1117,Stephanie Moore,False
+218,BRA-1118,Daniel Jackson,Item_119,Houston Hub,TX,POS-1118,Daniel Jackson,True
+219,BRA-1119,Nicole Martin,Item_120,Phoenix Hub,AZ,POS-1119,Nicole Martin,False
+220,BRA-1120,John Smith,Item_121,Philadelphia Hub,PA,POS-1120,John Smith,True
+221,BRA-1121,Jane Johnson,Item_122,San Antonio Hub,TX,POS-1121,Jane Johnson,False
+222,BRA-1122,Michael Williams,Item_123,San Diego Hub,CA,POS-1122,Michael Williams,True
+223,BRA-1123,Emily Brown,Item_124,Dallas Hub,TX,POS-1123,Emily Brown,False
+224,BRA-1124,David Jones,Item_125,San Jose Hub,CA,POS-1124,David Jones,True
+225,BRA-1125,John Smith,Item_126,New York Hub,NY,POS-1125,John Smith,True
+226,BRA-1126,Jane Johnson,Item_127,Los Angeles Hub,CA,POS-1126,Jane Johnson,False
+227,BRA-1127,Michael Williams,Item_128,Chicago Hub,IL,POS-1127,Michael Williams,True
+228,BRA-1128,Emily Brown,Item_129,Houston Hub,TX,POS-1128,Emily Brown,False
+229,BRA-1129,David Jones,Item_130,Phoenix Hub,AZ,POS-1129,David Jones,True
+230,BRA-1130,Sarah Garcia,Item_131,Philadelphia Hub,PA,POS-1130,Sarah Garcia,False
+231,BRA-1131,Robert Miller,Item_132,San Antonio Hub,TX,POS-1131,Robert Miller,True
+232,BRA-1132,Lisa Davis,Item_133,San Diego Hub,CA,POS-1132,Lisa Davis,False
+233,BRA-1133,James Rodriguez,Item_134,Dallas Hub,TX,POS-1133,James Rodriguez,True
+234,BRA-1134,Jennifer Martinez,Item_135,San Jose Hub,CA,POS-1134,Jennifer Martinez,False
+235,BRA-1135,William Hernandez,Item_136,Austin Hub,TX,POS-1135,William Hernandez,True
+236,BRA-1136,Amanda Lopez,Item_137,Seattle Hub,WA,POS-1136,Amanda Lopez,False
+237,BRA-1137,Joseph Gonzalez,Item_138,Denver Hub,CO,POS-1137,Joseph Gonzalez,True
+238,BRA-1138,Jessica Wilson,Item_139,Boston Hub,MA,POS-1138,Jessica Wilson,False
+239,BRA-1139,Thomas Anderson,Item_140,Miami Hub,FL,POS-1139,Thomas Anderson,True
+240,BRA-1140,Ashley Thomas,Item_141,New York Hub,NY,POS-1140,Ashley Thomas,False
+241,BRA-1141,Charles Taylor,Item_142,Los Angeles Hub,CA,POS-1141,Charles Taylor,True
+242,BRA-1142,Stephanie Moore,Item_143,Chicago Hub,IL,POS-1142,Stephanie Moore,False
+243,BRA-1143,Daniel Jackson,Item_144,Houston Hub,TX,POS-1143,Daniel Jackson,True
+244,BRA-1144,Nicole Martin,Item_145,Phoenix Hub,AZ,POS-1144,Nicole Martin,False
+245,BRA-1145,John Smith,Item_146,Philadelphia Hub,PA,POS-1145,John Smith,True
+246,BRA-1146,Jane Johnson,Item_147,San Antonio Hub,TX,POS-1146,Jane Johnson,False
+247,BRA-1147,Michael Williams,Item_148,San Diego Hub,CA,POS-1147,Michael Williams,True
+248,BRA-1148,Emily Brown,Item_149,Dallas Hub,TX,POS-1148,Emily Brown,False
+249,BRA-1149,David Jones,Item_150,San Jose Hub,CA,POS-1149,David Jones,True
+250,BRA-1150,John Smith,Item_151,New York Hub,NY,POS-1150,John Smith,True
+251,BRA-1151,Jane Johnson,Item_152,Los Angeles Hub,CA,POS-1151,Jane Johnson,False
+252,BRA-1152,Michael Williams,Item_153,Chicago Hub,IL,POS-1152,Michael Williams,True
+253,BRA-1153,Emily Brown,Item_154,Houston Hub,TX,POS-1153,Emily Brown,False
+254,BRA-1154,David Jones,Item_155,Phoenix Hub,AZ,POS-1154,David Jones,True
+255,BRA-1155,Sarah Garcia,Item_156,Philadelphia Hub,PA,POS-1155,Sarah Garcia,False
+256,BRA-1156,Robert Miller,Item_157,San Antonio Hub,TX,POS-1156,Robert Miller,True
+257,BRA-1157,Lisa Davis,Item_158,San Diego Hub,CA,POS-1157,Lisa Davis,False
+258,BRA-1158,James Rodriguez,Item_159,Dallas Hub,TX,POS-1158,James Rodriguez,True
+259,BRA-1159,Jennifer Martinez,Item_160,San Jose Hub,CA,POS-1159,Jennifer Martinez,False
+260,BRA-1160,William Hernandez,Item_161,Austin Hub,TX,POS-1160,William Hernandez,True
+261,BRA-1161,Amanda Lopez,Item_162,Seattle Hub,WA,POS-1161,Amanda Lopez,False
+262,BRA-1162,Joseph Gonzalez,Item_163,Denver Hub,CO,POS-1162,Joseph Gonzalez,True
+263,BRA-1163,Jessica Wilson,Item_164,Boston Hub,MA,POS-1163,Jessica Wilson,False
+264,BRA-1164,Thomas Anderson,Item_165,Miami Hub,FL,POS-1164,Thomas Anderson,True
+265,BRA-1165,Ashley Thomas,Item_166,New York Hub,NY,POS-1165,Ashley Thomas,False
+266,BRA-1166,Charles Taylor,Item_167,Los Angeles Hub,CA,POS-1166,Charles Taylor,True
+267,BRA-1167,Stephanie Moore,Item_168,Chicago Hub,IL,POS-1167,Stephanie Moore,False
+268,BRA-1168,Daniel Jackson,Item_169,Houston Hub,TX,POS-1168,Daniel Jackson,True
+269,BRA-1169,Nicole Martin,Item_170,Phoenix Hub,AZ,POS-1169,Nicole Martin,False
+270,BRA-1170,John Smith,Item_171,Philadelphia Hub,PA,POS-1170,John Smith,True
+271,BRA-1171,Jane Johnson,Item_172,San Antonio Hub,TX,POS-1171,Jane Johnson,False
+272,BRA-1172,Michael Williams,Item_173,San Diego Hub,CA,POS-1172,Michael Williams,True
+273,BRA-1173,Emily Brown,Item_174,Dallas Hub,TX,POS-1173,Emily Brown,False
+274,BRA-1174,David Jones,Item_175,San Jose Hub,CA,POS-1174,David Jones,True
+275,BRA-1175,John Smith,Item_176,New York Hub,NY,POS-1175,John Smith,True
+276,BRA-1176,Jane Johnson,Item_177,Los Angeles Hub,CA,POS-1176,Jane Johnson,False
+277,BRA-1177,Michael Williams,Item_178,Chicago Hub,IL,POS-1177,Michael Williams,True
+278,BRA-1178,Emily Brown,Item_179,Houston Hub,TX,POS-1178,Emily Brown,False
+279,BRA-1179,David Jones,Item_180,Phoenix Hub,AZ,POS-1179,David Jones,True
+280,BRA-1180,Sarah Garcia,Item_181,Philadelphia Hub,PA,POS-1180,Sarah Garcia,False
+281,BRA-1181,Robert Miller,Item_182,San Antonio Hub,TX,POS-1181,Robert Miller,True
+282,BRA-1182,Lisa Davis,Item_183,San Diego Hub,CA,POS-1182,Lisa Davis,False
+283,BRA-1183,James Rodriguez,Item_184,Dallas Hub,TX,POS-1183,James Rodriguez,True
+284,BRA-1184,Jennifer Martinez,Item_185,San Jose Hub,CA,POS-1184,Jennifer Martinez,False
+285,BRA-1185,William Hernandez,Item_186,Austin Hub,TX,POS-1185,William Hernandez,True
+286,BRA-1186,Amanda Lopez,Item_187,Seattle Hub,WA,POS-1186,Amanda Lopez,False
+287,BRA-1187,Joseph Gonzalez,Item_188,Denver Hub,CO,POS-1187,Joseph Gonzalez,True
+288,BRA-1188,Jessica Wilson,Item_189,Boston Hub,MA,POS-1188,Jessica Wilson,False
+289,BRA-1189,Thomas Anderson,Item_190,Miami Hub,FL,POS-1189,Thomas Anderson,True
+290,BRA-1190,Ashley Thomas,Item_191,New York Hub,NY,POS-1190,Ashley Thomas,False
+291,BRA-1191,Charles Taylor,Item_192,Los Angeles Hub,CA,POS-1191,Charles Taylor,True
+292,BRA-1192,Stephanie Moore,Item_193,Chicago Hub,IL,POS-1192,Stephanie Moore,False
+293,BRA-1193,Daniel Jackson,Item_194,Houston Hub,TX,POS-1193,Daniel Jackson,True
+294,BRA-1194,Nicole Martin,Item_195,Phoenix Hub,AZ,POS-1194,Nicole Martin,False
+295,BRA-1195,John Smith,Item_196,Philadelphia Hub,PA,POS-1195,John Smith,True
+296,BRA-1196,Jane Johnson,Item_197,San Antonio Hub,TX,POS-1196,Jane Johnson,False
+297,BRA-1197,Michael Williams,Item_198,San Diego Hub,CA,POS-1197,Michael Williams,True
+298,BRA-1198,Emily Brown,Item_199,Dallas Hub,TX,POS-1198,Emily Brown,False
+299,BRA-1199,David Jones,Item_200,San Jose Hub,CA,POS-1199,David Jones,True
